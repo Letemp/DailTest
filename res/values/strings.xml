@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DailTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvShow">请输入号码</string>
+     <string name="btnDial">拨打此号码</string>
+
+</resources>
